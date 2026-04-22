@@ -1,0 +1,7 @@
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+print((a>2)and(b>=6))#logical
+print(True and True)
+print(True and False)
+print (True or False)
+print(not True)
