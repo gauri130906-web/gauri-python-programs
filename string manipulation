@@ -1,0 +1,13 @@
+num=[1,2,3,4,5]
+lang=["python","c","java","php"]
+print(num+lang)
+print(num*2)
+print(lang[2])
+print("cpp"in lang)
+print(lang[1:4])
+print(6 not in num)
+
+lang=["python","c","java","php"]
+print("the list items are \n")
+for i in lang:
+    print(i)
